@@ -53,7 +53,6 @@
 **📅 I'm Most Productive on Sunday** 
 ```
 
-```text
 Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
