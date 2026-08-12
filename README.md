@@ -1,4 +1,4 @@
-# Aura ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Aura 
 
 <p align="center">
   <a href="https://x.com/Aura31z" target="_blank">
