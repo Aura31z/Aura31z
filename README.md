@@ -49,7 +49,7 @@
 🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
 🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 
-**📅 I'm Most Productive on Sunday**
+📅 I'm Most Productive on Sunday
 
 Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
