@@ -3,16 +3,15 @@
 <p align="center">
   <a href="https://x.com/Aura31z" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
-  </a> 
-  
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/Aura31z" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a> 
-  
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://discord.com/users/3f.fs" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
-  </a> 
-  
+  </a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -52,10 +51,9 @@
 🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
 🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
+** 📅 I'm Most Productive on Sunday** 
 
-**📅 I'm Most Productive on Sunday** 
 ```
-
 Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
