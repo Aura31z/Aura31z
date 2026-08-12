@@ -1,48 +1,50 @@
-# Hi there, I'm Aura 👋
-
-![](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Aura%20|%20Web,%20Bot%20&%20Cybersecurity%20Dev&fontSize=40&fontAlignY=35)
-
-I am a **versatile developer** specializing in **Web Development, Discord Bot Architecture, and Cybersecurity**. I build interactive, reliable, and secure digital experiences, from dynamic web applications to comprehensive server utility systems.
-
-* 🧐&nbsp; My central focus is crafting feature-rich **Discord Bots** with advanced system management and music utilities, ensuring high performance and seamless user experiences.
-* 💼&nbsp; I design scalable backend data structures, frequently utilizing **MongoDB** and **Mongoose schemas** to power my applications.
-* 🛡️&nbsp; Passionate about **Cybersecurity**, integrating secure practices and vulnerability analysis into my web platforms and bot infrastructure.
-* 🎨&nbsp; I actively design and customize digital visual identities, creating custom server icons, banners, and profile assets to build cohesive digital branding.
-* ⛵&nbsp; I thrive in community building and management, bringing technical and visual polish to digital spaces like the **PARADISE** server.
-* 🌱&nbsp; I am constantly exploring new methodologies in system integration, web vulnerabilities, and robust API development.
-
-<details>
-&nbsp; <summary><b>Explore My Tech Stack & Stats</b></summary>
-&nbsp; <br>
-
-### 🛠️ Languages & Tools
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-### 📊 GitHub Activity
+# Aura ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<!-- Replace 'YOUR_USERNAME' with your actual GitHub username -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Aura's GitHub stats" />
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Aura's top languages" />
+  <a href="https://x.com/Aura31z" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
+  </a>
+  <a href="https://linkedin.com/in/Aura31z" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
+  </a>
+  <a href="http://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
+  </a>
 </p>
 
-</details>
-&nbsp;&nbsp;
-<hr>
-<p align="center">
-&nbsp; <i>Explore my repositories or reach out to collaborate on web projects, secure systems, and bot development!</i>
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🛡️ I'm a **Versatile Developer** working extensively in **Web Development, Discord Bots, and Cybersecurity**.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 As a **Polyglot Programmer**, I have learned and worked with almost every programming language out there.
+- ⚙️ My daily drivers usually include: **.js**, **.py**, **.ts**, **.cpp**, and **Bash**.
+- 📖 I am currently exploring advanced **Penetration Testing** and **System Vulnerabilities**.
+- 🎨 I also design digital visual components, custom server layouts, and profile assets.
+- 👯 We can connect to discuss bot architectures, web exploits, or collaborative projects!
+- ⚡ Fun fact: Building complex Discord bots with scalable databases is my favorite late-night activity.
+- 🧑‍💻 Tech & Languages I work on:
 
 <p align="center">
-<!-- Add your actual links below -->
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.icons8.com/material-outlined/30/000000/github.png" alt="GitHub"/></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.icons8.com/material-outlined/30/000000/discord-logo.png" alt="Discord"/></a>
+      <a href="https://skillicons.dev">
+            <!-- Included a wide variety of languages and tools to reflect your vast programming knowledge -->
+            <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,cs,java,go,ruby,php,rust,bash,linux,mongodb,nodejs,docker,kali" />
+      </a>
 </p>
+
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Aura's github streak](https://streak-stats.demolab.com?user=Aura31z&theme=dark&mode=weekly)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2018%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
+🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
