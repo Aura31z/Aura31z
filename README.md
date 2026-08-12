@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/Aura31z" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
   </a>
-  <a href="http://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="http://discord.com/users/3f.fs" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
   </a>
 </p>
@@ -48,7 +48,9 @@
 🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
 🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
 🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+
 **📅 I'm Most Productive on Sunday**
+
 Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
